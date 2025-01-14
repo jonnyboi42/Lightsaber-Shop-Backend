@@ -7,6 +7,8 @@ export const lightsabers = [
     altText: "Dark Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20, // Random number between 20 and 57
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!"
   },
   {
     id: "lukeSaber",
@@ -16,6 +18,8 @@ export const lightsabers = [
     altText: "Luke Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20,
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!"
   },
   {
     id: "booneSaber",
@@ -25,6 +29,8 @@ export const lightsabers = [
     altText: "Boone Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20,
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!",
   },
   {
     id: "vaderSaber",
@@ -34,6 +40,8 @@ export const lightsabers = [
     altText: "Vader Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20,
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!",
   },
   {
     id: "anakinsaber",
@@ -43,6 +51,8 @@ export const lightsabers = [
     altText: "Anakin Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20,
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!",
   },
   {
     id: "obiwonsaber",
@@ -52,5 +62,7 @@ export const lightsabers = [
     altText: "Obi-Won Saber",
     initialQuantity: 1,
     reviews: Math.floor(Math.random() * (57 - 20 + 1)) + 20,
+    blade: "Proffie or SN-Pixel",
+    shipping: "Free Shipping!",
   },
 ];
